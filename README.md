@@ -20,7 +20,7 @@
 ## 💼 Work Experience
 
 ### Junior Data Engineer — Tsifra LLC  
-*September 2021 – June 2022*  
+*March 2022 – Present*  
 - Wrote SQL scripts for analytics and reporting  
 - Designed the structure of the company's data warehouse (DWH) to support business reporting and analytics  
 - Developed and maintained batch data pipelines using Apache Airflow or Azure Data Factory for regular data ingestion and transformation  
